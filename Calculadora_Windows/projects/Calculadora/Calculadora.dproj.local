@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/03 17:55:54.000.739,=C:\Users\Dev 2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/16 12:31:20.618,=C:\Users\Dev 2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/16 12:33:30.959,C:\Users\Dev 2\Desktop\Projetos_delphi\Calculadora_Windows\src\View\uView.Calculadora.Main.dfm=C:\Users\Dev 2\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/16 12:33:30.959,C:\Users\Dev 2\Desktop\Projetos_delphi\Calculadora_Windows\src\View\uView.Calculadora.Main.pas=C:\Users\Dev 2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/16 12:34:28.038,C:\Users\Dev 2\Desktop\Projetos_delphi\Calculadora_Windows\projects\Calculadora\Calculadora.dproj=C:\Users\Dev 2\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
