@@ -1,0 +1,44 @@
+inherited RegisterCRUDView: TRegisterCRUDView
+  Caption = 'Cadastro Padr'#227'o'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited cpMain: TCardPanel
+    ExplicitWidth = 669
+    ExplicitHeight = 519
+    inherited cdSearch: TCard
+      ExplicitWidth = 669
+      ExplicitHeight = 519
+      inherited pnSearch: TPanel
+        ExplicitTop = 0
+        ExplicitWidth = 669
+        inherited btnSearch: TButton
+          ExplicitLeft = 572
+          ExplicitTop = 0
+        end
+      end
+      inherited pnGrid: TPanel
+        ExplicitTop = 65
+        ExplicitWidth = 669
+        ExplicitHeight = 383
+      end
+      inherited pnBtnSearch: TPanel
+        ExplicitWidth = 669
+        inherited btnClose: TButton
+          ExplicitLeft = 570
+        end
+        inherited btnPrinter: TButton
+          ExplicitLeft = 305
+        end
+        inherited btnDelete: TButton
+          ExplicitLeft = 204
+        end
+        inherited btnEdit: TButton
+          ExplicitLeft = 103
+        end
+        inherited btnInsert: TButton
+          ExplicitLeft = 2
+        end
+      end
+    end
+  end
+end
